@@ -1,0 +1,13 @@
+# Visual Studio
+.vs/
+
+# Python
+__pycache__/
+*.pyc
+
+# 虚拟环境
+venv/
+.env
+
+# 临时文件
+*.log
